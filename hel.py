@@ -5,7 +5,6 @@ import requests
 import json
 from collections import deque
 
-q = deque()
 x = []
 y = []
 
