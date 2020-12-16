@@ -28,3 +28,5 @@ ani = FuncAnimation(plt.gcf(), get_data, interval = 1000)
 print(ani)
 plt.tight_layout()
 plt.show()
+
+# do something
